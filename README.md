@@ -1,6 +1,9 @@
 <div align="center">
+
 <img src="banner.png" alt="NeuroFleetX Banner" width="100%" />
 
+<br/>
+<br/>
 
 # NeuroFleetX
 ### AI-Driven Urban Mobility Optimization Platform
